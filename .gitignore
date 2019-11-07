@@ -1,0 +1,5 @@
+*.d
+*.o
+*.zip
+*.log
+*.atsln.bak
