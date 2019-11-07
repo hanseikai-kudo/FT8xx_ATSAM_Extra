@@ -1,0 +1,15 @@
+/ATSAM_Extra.bin
+/ATSAM_Extra.eep
+/ATSAM_Extra.elf
+/ATSAM_Extra.lss
+/ATSAM_Extra.map
+/ATSAM_Extra.srec
+/D21_CLK.bin
+/D21_CLK.eep
+/D21_CLK.elf
+/D21_CLK.hex
+/D21_CLK.lss
+/D21_CLK.map
+/D21_CLK.srec
+/Makefile
+/makedep.mk
