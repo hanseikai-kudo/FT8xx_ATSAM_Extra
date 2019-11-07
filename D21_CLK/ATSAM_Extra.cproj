@@ -379,12 +379,6 @@
     <Compile Include="driver_init.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="examples\driver_examples.c">
-      <SubType>compile</SubType>
-    </Compile>
-    <Compile Include="examples\driver_examples.h">
-      <SubType>compile</SubType>
-    </Compile>
     <Compile Include="exit2_jpg.c">
       <SubType>compile</SubType>
     </Compile>
