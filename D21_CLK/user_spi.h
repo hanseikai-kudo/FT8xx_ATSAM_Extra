@@ -77,7 +77,6 @@ bool SercomSPI_Enable( Sercom *sercom );
 unsigned char SercomSPI_TransByte( Sercom *sercom, unsigned short tx_data );
 
 
-void TouchPanelCalibration( void );
 
 #endif
 
